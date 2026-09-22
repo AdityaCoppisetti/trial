@@ -13,3 +13,6 @@ I'm a builder interested in engineering, hardware, software, photography, and fi
 - Custom keyboard
 - Astrophotography rig
 - Custom camera
+
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+
